@@ -12,7 +12,8 @@ const Home = () => {
                     Aspiring AI Engineer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                Deep learning is the future. After studying artificial intelligence, natural language processing, data science with machine learning, and the fundamentals of deep learning, a blazing passion to work on bleeding edge artificial intelligence has emerged within me. Alongside my understanding of IoT, it’s clear the world is on the cusp of a data revolution where the ever growing number of sensors will have their data consumed, continuously in real-time and at a low cost, to create real and practical solutions to today’s problems.
+                With an MS in AI and BS in CS from FAU College of Engineering and Computer Science,
+                 I strive to use what I know to solve real world problems.
                 </p>
                 <div>
                     <Link to="portfolio" smooth duration={500} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">

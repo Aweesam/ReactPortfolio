@@ -9,7 +9,7 @@ const About = () => {
             </div>
 
             <p className="text-xl mt-20">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, unde doloribus facilis eum eligendi molestias animi magni quidem vitae expedita ab doloremque nesciunt, optio sed? Necessitatibus tempora quo, delectus ratione aut saepe cum omnis aliquid, at ipsa repudiandae temporibus tempore distinctio accusamus numquam nisi odio, voluptate eaque alias exercitationem sed.
+            Deep learning is the future. After studying artificial intelligence, natural language processing, data science with machine learning, and the fundamentals of deep learning, a blazing passion to work on bleeding edge artificial intelligence has emerged within me. Alongside my understanding of IoT, it’s clear the world is on the cusp of a data revolution where the ever growing number of sensors will have their data consumed, continuously in real-time and at a low cost, to create real and practical solutions to today’s problems.
             </p>
 
             <br />
