@@ -12,6 +12,7 @@ import pandas from "../assets/pandas.png"
 import cplusplus from "../assets/cplusplus.png"
 import android from "../assets/android.png"
 import aws from "../assets/aws.png"
+import mysql from "../assets/mysql.png"
 
 const Experience = () => {
   
@@ -20,7 +21,7 @@ const Experience = () => {
         id: 1,
         src: python,
         title: 'Python',
-        style: 'shadow-cyan-300',
+        style: 'shadow-sky-600',
     },
     {
         id: 2,
@@ -80,7 +81,7 @@ const Experience = () => {
         id: 11,
         src: android,
         title: 'Android',
-        style: 'shadow-green-300',
+        style: 'shadow-green-500',
     },
     {
         id: 12,
@@ -89,16 +90,16 @@ const Experience = () => {
         style: 'shadow-orange-400',
     },
     {
-        id: 8,
+        id: 13,
         src: github,
         title: 'GitHub',
         style: 'shadow-gray-400',
     },
     {
-        id: 1,
-        src: html,
-        title: 'HTML',
-        style: 'shadow-orange-500',
+        id: 14,
+        src: mysql,
+        title: 'MySQL',
+        style: 'shadow-emerald-600',
     },
   ]
   
