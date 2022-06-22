@@ -14,7 +14,7 @@ const About = () => {
 
             <br />
 
-            <p className="text-xl b">
+            <p className="text-xl">
                 Let's build a better world!
             </p>
         </div>
